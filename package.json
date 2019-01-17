@@ -1,0 +1,23 @@
+{
+  "name": "anotherexpressappgit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayesh3010/anotherexpressapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayesh3010/anotherexpressapp/issues"
+  },
+  "homepage": "https://github.com/jayesh3010/anotherexpressapp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
